@@ -1,0 +1,2 @@
+MONGODB=mongodb+srv://mongo:R!$elC@mb2@18@cluster0.saedj.azure.mongodb.net/desafio?retryWrites=true&w=majority
+PORT=8081
