@@ -26,7 +26,7 @@ const app = express();
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(
   cors({
-    origin: 'https://grades-app-moreno.herokuapp.com',
+    origin: 'http://localhost:3000',
   })
 );  
 
