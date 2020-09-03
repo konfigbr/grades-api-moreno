@@ -14,8 +14,7 @@ dotenv.config();
       useUnifiedTopology: true,
     });
     console.log("Conectado Mongoose!!")
-  } catch (error) { 
-  
+  } catch (error) {   
     process.exit();
   }
 })(); 
